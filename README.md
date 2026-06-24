@@ -15,5 +15,4 @@ built with Python.
 - Cuisine trends, rating patterns, price vs rating insights
 - Tools: Pandas, Matplotlib, Seaborn
 
-## 👤 Author
-Mannat Kalani | 3rd Year CS Student | June 2026
+
